@@ -74,9 +74,9 @@ The application will start, and you can access the API endpoints as described be
     }
     ```
 
-## Running JUnit Tests
+## Running tests
 
-To run JUnit tests for the project, execute the following command:
+To run tests for the project, execute the following command:
 
 ```bash
 ./mvnw test
