@@ -1,4 +1,4 @@
-# Idea Refinery - Spring Boot Task API
+# Idea Refinery - Tasks API
 
 This is a Spring Boot project that provides REST API for managing tasks. 
 The project uses an in-memory store for data.
